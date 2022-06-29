@@ -1,0 +1,21 @@
+.counter {
+  border: 2px solid;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+ 
+}
+
+.counter .btns {
+  position: relative;
+}
+
+.counter .btns .btn {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fcba03;
+  border: none;
+  font-weight: 900;
+  margin: 5px;
+  cursor: pointer;
+}
